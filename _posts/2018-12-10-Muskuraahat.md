@@ -2,7 +2,7 @@
 layout:     post
 title:      Muskuraahat
 date:       2018-12-10
-categories: hindi
+categories: Hindi
 thumbnail: poem
 ---
 

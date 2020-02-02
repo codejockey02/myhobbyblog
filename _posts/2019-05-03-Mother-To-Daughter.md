@@ -2,7 +2,7 @@
 layout:     post
 title:      Mother to Daughter
 date:       2019-05-03
-categories: english
+categories: English
 thumbnail: poem
 ---
 

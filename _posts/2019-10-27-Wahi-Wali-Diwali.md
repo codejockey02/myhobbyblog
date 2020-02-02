@@ -2,7 +2,7 @@
 layout:     post
 title:      Wahi Wali Diwali
 date:       2019-10-27 
-categories: hindi
+categories: Hindi
 thumbnail: poem
 ---
 

@@ -2,7 +2,7 @@
 layout:     post
 title:      Mein aur Meri Neend
 date:       2019-06-23 
-categories: hindi
+categories: Hindi
 thumbnail: poem
 ---
 

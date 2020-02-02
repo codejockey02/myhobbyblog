@@ -2,7 +2,7 @@
 layout:     post
 title:      Raja Rani Ki Kahani
 date:       2019-12-06 
-categories: hindi
+categories: Hindi
 thumbnail: poem
 ---
 

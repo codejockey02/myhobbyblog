@@ -2,7 +2,7 @@
 layout:     post
 title:      Labyrinth
 date:       2020-01-25 12:32:18
-categories: english
+categories: English
 thumbnail: poem
 ---
 

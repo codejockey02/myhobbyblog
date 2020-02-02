@@ -2,7 +2,7 @@
 layout:     post
 title:      Suno Chanda
 date:       2019-10-07 
-categories: hindi
+categories: Hindi
 thumbnail: poem
 ---
 

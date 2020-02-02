@@ -2,7 +2,7 @@
 layout:     post
 title:      Vo Bola Nahi Jaa Sakta
 date:       2019-03-15 
-categories: hindi
+categories: Hindi
 thumbnail: poem
 ---
 

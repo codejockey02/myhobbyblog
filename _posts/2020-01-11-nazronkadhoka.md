@@ -2,7 +2,7 @@
 layout:     post
 title:      Nazron Ka Dhoka
 date:       2020-01-11
-categories: hindi
+categories: Hindi
 thumbnail: poem
 ---
 
