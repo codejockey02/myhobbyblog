@@ -4,6 +4,7 @@ title:      Labyrinth
 date:       2020-01-25 12:32:18
 categories: english
 thumbnail: poem
+---
 
 To get out of this labyrinth,  
 To tell the beautiful stories,  
