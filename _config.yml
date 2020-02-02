@@ -14,7 +14,7 @@ twitter_username: __priyesh
 instagram_username: the.dark.sunshine
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i>"
+footer_left: "Made with <i class=\"fa fa-heart\"></i> using Jekyll."
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/codejockey02/myhobbyblog\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
