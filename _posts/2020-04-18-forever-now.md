@@ -10,6 +10,7 @@ I was full of secrets until I met him
 I was scared of people to the brim  
 I was scared of being treated like a specimen  
 I was scared because I was different  
+He accepted my secrets / even though I was too late  
 Then, I was running to different cities  
 Running from my different identities  
 Now, I bought a place in downtown  
@@ -18,7 +19,6 @@ Then, I was against all these commitments
 Happy from one night stands  
 Now, I am walking the aisle with my daughter  
 To take the wedding vows & be with him forever.  
-He accepted my secrets / even though I was too late  
 ..........  
 I was full of secrets until I met him  
 I am full of love after I met him.  
